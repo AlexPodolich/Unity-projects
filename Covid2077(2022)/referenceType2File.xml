@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>039277bd1386e90408c6a7701a0779a9</guid>
+    <fileName>Assets/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-04-06T18:55:12+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bd190f7416884b540aaa657d0c16319a</guid>
+    <fileName>Assets/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-04-06T18:55:12+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a0fb3335de7b23d4db61590f2788ba7e</guid>
+    <fileName>Assets/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-04-06T18:55:12+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8a6f960fb73e1ff4399d2163da341336</guid>
+    <fileName>Assets/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-04-06T18:55:12+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3d247f830418583458c675cfb7fe70da</guid>
+    <fileName>Assets/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-04-06T18:55:12+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4c128a4680c06bb4d90c5d4c002a488f</guid>
+    <fileName>Assets/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-04-06T18:55:12+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba711119213bddf43899d9bdfbfbeef7</guid>
+    <fileName>Assets/Scripts/AudioScript.cs</fileName>
+    <timeStamp>2022-05-17T14:25:20.3130476+02:00</timeStamp>
+    <typeFullName>
+      <string>AudioScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ca78768a1b78a244abcba6a9c1db554d</guid>
+    <fileName>Assets/Scripts/BtnClick.cs</fileName>
+    <timeStamp>2022-05-17T14:04:03.98495+02:00</timeStamp>
+    <typeFullName>
+      <string>BtnClick</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>37ebbaba89a05c4459a15ab7014030d0</guid>
+    <fileName>Assets/Scripts/CheckCollision.cs</fileName>
+    <timeStamp>2022-05-17T18:24:41.4285735+02:00</timeStamp>
+    <typeFullName>
+      <string>CheckCollision</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>af7762f5e9fa69d449e4eca842ceb739</guid>
+    <fileName>Assets/Scripts/Corona.cs</fileName>
+    <timeStamp>2022-07-10T17:57:22.4374659+02:00</timeStamp>
+    <typeFullName>
+      <string>Corona</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2b67c7020ce10e64fa17b901f3d746c0</guid>
+    <fileName>Assets/Scripts/DoNotDestroy.cs</fileName>
+    <timeStamp>2022-05-17T14:04:01.9860226+02:00</timeStamp>
+    <typeFullName>
+      <string>DoNotDestroy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7a3983db3c9c3c542839263c94c027e8</guid>
+    <fileName>Assets/Scripts/GameSceneScript.cs</fileName>
+    <timeStamp>2022-05-17T19:47:10.9189631+02:00</timeStamp>
+    <typeFullName>
+      <string>GameSceneScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>01813f8db3ed76244add22a92a35ad21</guid>
+    <fileName>Assets/Scripts/Medecine.cs</fileName>
+    <timeStamp>2022-05-17T14:16:45.7132521+02:00</timeStamp>
+    <typeFullName>
+      <string>Medecine</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c76bf54e503e9424abe98b5a687f1a10</guid>
+    <fileName>Assets/Scripts/MenuScript.cs</fileName>
+    <timeStamp>2022-05-17T14:04:00.1127561+02:00</timeStamp>
+    <typeFullName>
+      <string>MenuScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6110deacd5ed2ae4d9b2c6d600aec246</guid>
+    <fileName>Assets/Scripts/Player.cs</fileName>
+    <timeStamp>2022-05-17T14:21:23.6022314+02:00</timeStamp>
+    <typeFullName>
+      <string>Player</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>150e1c66d18c0134abedc91872cff7d1</guid>
+    <fileName>Assets/Scripts/SelectDiffSceneScript.cs</fileName>
+    <timeStamp>2022-05-17T15:45:57.9465098+02:00</timeStamp>
+    <typeFullName>
+      <string>SelectDiffSceneScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc6d0381c34c1c843a6c51673c6e8b58</guid>
+    <fileName>Assets/Scripts/SpawnObjects.cs</fileName>
+    <timeStamp>2022-05-17T20:50:50.8783811+02:00</timeStamp>
+    <typeFullName>
+      <string>SpawnObjects</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
